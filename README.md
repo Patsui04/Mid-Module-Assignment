@@ -10,7 +10,7 @@ A Python program that implements Floyd Warshall's algorithm to find the shortest
 
 ## Project structure
 - index.py
-- samply.py
+- sample.py
 - test_cases.py
 - test_performance.py
 - test_unittest.py
@@ -45,7 +45,7 @@ The output needs to be:
 The samples available on the PDF and the [Geeksforgeeks](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) are in the sample file.
 
 ```
-python3 samply.py
+python3 sample.py
 ```
 
 
